@@ -101,7 +101,7 @@ for i in x:
        if (p==q):
           continue
 # if its unique     we need to check if those numbers(p,q) are likely prime by the fermat algorithm as described
-#if u are askin why likely not sure prime h2olk mafesh algo bt2olk in el rkm dh 100% prime fbtl bdan
+
        if (fermet(p) and fermet(q)):
            #if both of them are likely prime stop the random genaration and save the value of them
           break
